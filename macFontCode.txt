@@ -1,0 +1,100 @@
+0,Andale Mono.ttf
+1,Arial Black.ttf
+2,Arial Bold Italic.ttf
+3,Arial Bold.ttf
+4,Arial Italic.ttf
+5,Arial Narrow Bold Italic.ttf
+6,Arial Narrow Bold.ttf
+7,Arial Narrow Italic.ttf
+8,Arial Narrow.ttf
+9,Arial Rounded Bold.ttf
+10,Arial Unicode.ttf
+11,Arial.ttf
+12,Avenir-Book.ttf
+13,Avenir-Light.ttf
+14,Avenir-Roman.ttf
+15,BigCaslon.ttf
+16,Bradley Hand Bold.ttf
+17,Brush Script.ttf
+18,Chalkduster.ttf
+19,Cinzel-Black.ttf
+20,Cinzel-Bold.ttf
+21,Cinzel-Regular.ttf
+22,Comic Sans MS Bold.ttf
+23,Comic Sans MS.ttf
+24,Courier New Bold Italic.ttf
+25,Courier New Bold.ttf
+26,Courier New Italic.ttf
+27,Courier New.ttf
+28,DIN Alternate Bold.ttf
+29,DIN Condensed Bold.ttf
+30,Georgia Bold Italic.ttf
+31,Georgia Bold.ttf
+32,Georgia Italic.ttf
+33,Georgia.ttf
+34,Impact.ttf
+35,IndieFlower-Regular.ttf
+36,Lato-Black.ttf
+37,Lato-BlackItalic.ttf
+38,Lato-Bold.ttf
+39,Lato-BoldItalic.ttf
+40,Lato-Italic.ttf
+41,Lato-Light.ttf
+42,Lato-LightItalic.ttf
+43,Lato-Regular.ttf
+44,Lato-Thin.ttf
+45,Lato-ThinItalic.ttf
+46,Luminari.ttf
+47,Microsoft Sans Serif.ttf
+48,OpenSans-Bold.ttf
+49,OpenSans-BoldItalic.ttf
+50,OpenSans-ExtraBold.ttf
+51,OpenSans-ExtraBoldItalic.ttf
+52,OpenSans-Italic.ttf
+53,OpenSans-Light.ttf
+54,OpenSans-LightItalic.ttf
+55,OpenSans-Regular.ttf
+56,OpenSans-SemiBold.ttf
+57,OpenSans-SemiBoldItalic.ttf
+58,Orbitron-VariableFont_wght.ttf
+59,Recursive-VariableFont_CASL,CRSV,MONO,slnt,wght.ttf
+60,RedRose-Bold.ttf
+61,RedRose-Light.ttf
+62,RedRose-Regular.ttf
+63,Roboto-Black.ttf
+64,Roboto-BlackItalic.ttf
+65,Roboto-Bold.ttf
+66,Roboto-BoldItalic.ttf
+67,Roboto-Italic.ttf
+68,Roboto-Light.ttf
+69,Roboto-LightItalic.ttf
+70,Roboto-Medium.ttf
+71,Roboto-MediumItalic.ttf
+72,Roboto-Regular.ttf
+73,Roboto-Thin.ttf
+74,Roboto-ThinItalic.ttf
+75,ShadowsIntoLight-Regular.ttf
+76,Skia.ttf
+77,SourceCodePro-Black.ttf
+78,SourceCodePro-Bold.ttf
+79,SourceCodePro-ExtraLight.ttf
+80,SourceCodePro-Light.ttf
+81,SourceCodePro-Regular.ttf
+82,SourceCodePro-Semibold.ttf
+83,Staatliches-Regular.ttf
+84,Tahoma Bold.ttf
+85,Tahoma.ttf
+86,Times New Roman Bold Italic.ttf
+87,Times New Roman Bold.ttf
+88,Times New Roman Italic.ttf
+89,Times New Roman.ttf
+90,Trattatello.ttf
+91,Trebuchet MS Bold Italic.ttf
+92,Trebuchet MS Bold.ttf
+93,Trebuchet MS Italic.ttf
+94,Trebuchet MS.ttf
+95,Verdana Bold Italic.ttf
+96,Verdana Bold.ttf
+97,Verdana Italic.ttf
+98,Verdana.ttf
+99,Zapfino.ttf
